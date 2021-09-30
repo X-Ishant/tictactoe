@@ -121,6 +121,7 @@ while turns < 9:
   if turns == 9: print("Tie!")
   user = not user
 
-
-
-
+  """
+  this is a project made with help of youtuber Garrett Halstein
+  thank you for making a video on this it was a great Experience making it
+  """
